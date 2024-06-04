@@ -130,7 +130,7 @@ const handleOpen = (key, keyPath) => {
 }
 
 .el-menu {
-  width: 80%;
+  width: 100%;
 }
 
 .el-dropdown {
